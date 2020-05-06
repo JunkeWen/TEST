@@ -1,0 +1,7 @@
+#node_modules ignore
+node_modules/
+
+dist/
+
+#package-lock.json ignore
+package-lock.json:
